@@ -15,3 +15,9 @@ Built off this paper: [Parallel Dijkstra](https://repository.stcloudstate.edu/cg
 ## Delta Stepping
 
 ## Floyd-Warshall
+`Floyd_Warshall_CPU.c`:
+- OpenMP Implementation based off pseudocode from paper
+
+`Floyd_Warshall_GPU.cu`:
+- Based off OpenMP implementation from paper, translated to GPU
+
