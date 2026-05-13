@@ -15,6 +15,8 @@ Built off this paper: [Parallel Dijkstra](https://repository.stcloudstate.edu/cg
 ## Delta Stepping
 
 ## Floyd-Warshall
+Referenced Athens paper: [Floyd-Warshall](https://github.com/user-attachments/files/27681116/floyd-warshall.pdf)
+
 `Floyd_Warshall_CPU.c`:
 - OpenMP Implementation based off pseudocode from paper
 
